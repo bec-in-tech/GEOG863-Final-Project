@@ -17,3 +17,5 @@ Here's a breakdown of the key components and features:
 6. Search Widget: The project includes a search functionality using the Search widget. It allows users to search for plant species by name or code within the specified FeatureLayer. The widget is configured with placeholder text, search fields, and zoom scale settings.
 
 Overall, the project aims to provide a user-friendly web mapping interface for exploring, editing, and querying ecological data related to sensitive plant species surveys. Users can visualize plant distribution, search for specific species, and edit survey data using the provided widgets and functionalities.
+
+![image](https://github.com/bec-in-tech/GEOG863-Final-Project/assets/120440399/dea9bacd-73c8-41c8-a9da-ceeae2facc52)
