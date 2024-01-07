@@ -21,4 +21,8 @@ Overall, the project aims to provide a user-friendly web mapping interface for e
 
 ![image](https://github.com/bec-in-tech/GEOG863-Final-Project/assets/120440399/dea9bacd-73c8-41c8-a9da-ceeae2facc52)
 
-This interactive map can also be viewed in CodePen: https://codepen.io/rmu5072/pen/rNqmPWR
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNqmPWR" data-user="rmu5072" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rmu5072/pen/rNqmPWR">
+  GEOG 863 - Final Project</a> by Rebecca U (<a href="https://codepen.io/rmu5072">@rmu5072</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
