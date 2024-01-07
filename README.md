@@ -19,3 +19,5 @@ Here's a breakdown of the key components and features:
 Overall, the project aims to provide a user-friendly web mapping interface for exploring, editing, and querying ecological data related to sensitive plant species surveys. Users can visualize plant distribution, search for specific species, and edit survey data using the provided widgets and functionalities.
 
 ![image](https://github.com/bec-in-tech/GEOG863-Final-Project/assets/120440399/dea9bacd-73c8-41c8-a9da-ceeae2facc52)
+
+This interactive map can also be displayed in CodePen: https://codepen.io/rmu5072/pen/rNqmPWR
