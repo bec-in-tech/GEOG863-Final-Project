@@ -20,4 +20,4 @@ Overall, the project aims to provide a user-friendly web mapping interface for e
 
 ![image](https://github.com/bec-in-tech/GEOG863-Final-Project/assets/120440399/dea9bacd-73c8-41c8-a9da-ceeae2facc52)
 
-This interactive map can also be displayed in CodePen: https://codepen.io/rmu5072/pen/rNqmPWR
+This interactive map can also be viewed in CodePen: https://codepen.io/rmu5072/pen/rNqmPWR
