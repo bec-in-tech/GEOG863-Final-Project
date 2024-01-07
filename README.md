@@ -1,6 +1,6 @@
 # GEOG863 Final Project: Mapping Sensitive Species in Southern Nevada
 
-<b>Project Description:</b><br>
+<b>Project Description:</b><br><br>
 This provided code is part of a web mapping project for GEOG863 that utilizes the ArcGIS API for JavaScript. The project involves creating an interactive map with various functionalities for managing and visualizing ecological data related to sensitive plant species surveys in southern Nevada.
 
 <b>Here's a breakdown of the key components and features:</b>
